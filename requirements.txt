@@ -1,5 +1,5 @@
 # Explorer
-requests>=2.18.4
+requests>=2.32.0
 
 # CFG graphical view
 graphviz>=0.8.3
